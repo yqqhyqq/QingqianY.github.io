@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Qingqian Yang (杨清倩)"
+title                    : "Qingqian Yang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Qingqian Yang"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "9da2aa4ddfeabf43555af13882984b2e.jpeg"
-  name             : # "Your Sidebar Name"
+  name             : "Qingqian Yang"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "China"
