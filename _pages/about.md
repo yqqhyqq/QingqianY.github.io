@@ -1,12 +1,16 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a Master's student in Computer Science at Shanghai University of Electric Power, specializing in Trustworthy Machine Learning and Computer Vision. My research focuses on security challenges in Federated Learning, particularly backdoor attacks and defenses.
+Hi! I’m **Qingqian Yang**, a Master’s student in **Computer Science** at **Shanghai University of Electric Power**, advised by **Prof. Liangliang Wang**.  
+Currently, I am an **intern at Shanghai Jiao Tong University**, working in the **Shanghai Key Laboratory of Scalable Computing and Systems**, where I am fortunate to be co-advised by **Prof. Tao Song**, **Prof. Yang Hua**, and **Prof. Hao Wang**.
 
-I am seeking Ph.D. positions for 2026 admission, with strong interest in Trustworthy ML. 
+My research focuses on **Trustworthy Machine Learning** and **Computer Vision**, particularly on **security challenges in Federated Learning**, such as **backdoor attacks and defenses**.  
+I am broadly interested in building **reliable, robust, and interpretable AI systems**.
+
+I am looking for a **PhD position for Fall 2026**!
