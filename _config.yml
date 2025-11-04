@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Qingqian Yang's Personal Homepage"
+title                    : "Qingqian Yang"
 title_separator          : "-"
-name                     : &name "Qingqian Yang"
+name                     : &name "Qingqian Yang (杨清倩)"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yqqhyqq.github.io/QingqianY.github.io/ # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -23,8 +23,8 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "9da2aa4ddfeabf43555af13882984b2e.jpeg"
-  name             : "Qingqian Yang"
+  avatar           : "profile.png"
+  name             : "Qingqian Yang (杨清倩)"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
   location         : "China"
